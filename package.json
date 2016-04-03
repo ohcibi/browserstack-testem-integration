@@ -1,6 +1,6 @@
 {
   "name": "browserstack-testem-integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helps integrating browserstack with your testem configuration",
   "main": "index.js",
   "scripts": {
